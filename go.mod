@@ -1,4 +1,4 @@
-module utils
+module github.com/cuishuang/utils
 
 go 1.18
 
